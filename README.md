@@ -24,10 +24,10 @@ Hi! I'm [Your Name], a data science enthusiast eager to solve real-world problem
 | 1   | Burnout Breakdown       | ✅ Completed |
 | 2   | Stress Signals          | ✅ Completed |
 | 3   | Outlier Overload        | ✅ Completed |
-| 4   | Encode to Survive       |              |
-| 5   | Prepping for Prediction |              |
-| -   | Mini Challenge          |              |
-| -   | Main Challenge          |              |
+| 4   | Encode to Survive       | ✅ Completed |
+| 5   | Prepping for Prediction | ✅ Completed |
+| -   | Mini Challenge          | ✅ Completed |
+| -   | Main Challenge          | ✅ Completed |
 
 ---
 
