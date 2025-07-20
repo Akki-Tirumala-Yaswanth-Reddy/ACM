@@ -11,3 +11,5 @@
 ## Models
 
 - I ran the MSE and R2 scores for Linear regression, Lasso, and Ridge. 
+- Lasso is the best among the models, as there are more features and a lot of them do provide a lot of information, their coefficients are put to 0, so feature selection is also done automatically.
+- Ridge is slightly better than Linear regression as it will decrease the value of the not so important features, but not entirely putting them as 0, as there are many features it doesnt give us the results on par with Lasso.
