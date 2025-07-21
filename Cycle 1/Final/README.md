@@ -1,4 +1,4 @@
-# Day-5
+# Final
 
 - I first applied Random forrests and used it to select the top 3 features.
 - I also made a regression model which performed similar to the random forests.
