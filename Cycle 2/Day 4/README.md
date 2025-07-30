@@ -1,0 +1,3 @@
+- Dimentionlity reduction is used to decrease the number of terms that we need to operate on. This is done in such a way that there is minimal loss of information. SVD and PCA are used for dimentionality reduction.
+- Not all the words in the vocabulary of the TF IDF model is used in every document, so there will be a lot of zeroes in the columns, instead of saving those 0 values, only the addresses where non zero values are present are stored. This reduced the memory usage.
+- Clustering is used to group the data into groups based on their features, so no prior labels are needed. The labels(centroids) are decided by the algorithm.
