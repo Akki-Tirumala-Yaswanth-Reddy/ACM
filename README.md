@@ -13,7 +13,7 @@ Hi! I'm [Your Name], a data science enthusiast eager to solve real-world problem
 | 1         | Clean Data Champions     | ✅ Completed | [Cycle 1](./Cycle%201)         |
 | 2         | [To Be Announced]        | ⏳ Upcoming  | [Cycle 2](./Cycle%202)                |
 | 3         | [To Be Announced]        | ⏳ Upcoming  | [Cycle 3](./Cycle%203)                |
-| 4         | [To Be Announced]        | ⏳ Upcoming  | [Cycle 4](./Cycle_4_[Coming_Soon]/)                |
+| 4         | [To Be Announced]        | ⏳ Upcoming  | [Cycle 4](./Cycle%203)                |
 
 # 🧹 Cycle 1: Clean Data Champions
 
